@@ -1,0 +1,31 @@
+{
+  "name": "30-day-js-challenge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "30 Day Vanilla JS Coding Challenge",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:embyth/30-day-js-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/embyth/30-day-js-challenge/issues"
+  },
+  "scripts": {
+    "eslint": "eslint source/**/*.js",
+    "test": "npm run eslint",
+    "start": "gulp",
+    "deploy": "gh-pages -d source"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.13",
+    "eslint": "7.3.1",
+    "eslint-config-htmlacademy": "0.5.2",
+    "gh-pages": "3.1.0",
+    "gulp": "4.0.2"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "engines": {
+    "node": "12"
+  }
+}
