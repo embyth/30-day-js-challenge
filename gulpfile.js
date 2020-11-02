@@ -1,5 +1,5 @@
 const gulp = require(`gulp`);
-const browserSync = require(`browser-sync`).create(`Local Server`);
+const browserSync = require(`browser-sync`).create();
 
 gulp.task(`server`, (done) => {
   browserSync.init({
@@ -18,10 +18,10 @@ gulp.task(`server`, (done) => {
   done();
 });
 
-gulp.task(`watch`, function () {
+gulp.task(`watch`, () => {
   gulp.watch(`./source/**/*.html`).on(`all`, browserSync.reload);
   gulp.watch(`./source/**/*.js`).on(`all`, browserSync.reload);
-  gulp.watch(`./source/**/*.css`).on(`all`, browserSync.stream());
+  gulp.watch(`./source/**/*.css`).on(`all`, browserSync.stream);
   gulp.watch(`./source/**/*.{jpg,jpeg,png,svg,webp}`).on(`all`, browserSync.reload);
 });
 
