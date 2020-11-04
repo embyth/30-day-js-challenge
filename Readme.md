@@ -9,7 +9,10 @@ Code by: [Rostyslav Miniukov](https://github.com/embyth/)
 ## Challenges Demo
 
 [Day 01 - JavaScript Drum Kit Demo](https://embyth.github.io/30-day-js-challenge/01-drum-kit/index.html)
+
 [Day 02 - CSS + JS Clock Demo](https://embyth.github.io/30-day-js-challenge/02-css-js-clock/index.html)
+
+[Day 03 - CSS Variables and JS Demo](https://embyth.github.io/30-day-js-challenge/03-css-vars-and-js/index.html)
 
 ---
 
