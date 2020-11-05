@@ -14,6 +14,8 @@ Code by: [Rostyslav Miniukov](https://github.com/embyth/)
 
 [Day 03 - CSS Variables and JS Demo](https://embyth.github.io/30-day-js-challenge/03-css-vars-and-js/index.html)
 
+[Day 04 - Array Cardio Day 1 Demo](https://embyth.github.io/30-day-js-challenge/04-array-cardio-1/index.html)
+
 ---
 
 ## Usage
