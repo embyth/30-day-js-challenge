@@ -16,6 +16,8 @@ Code by: [Rostyslav Miniukov](https://github.com/embyth/)
 
 [Day 04 - Array Cardio Day 1 Demo](https://embyth.github.io/30-day-js-challenge/04-array-cardio-1/index.html)
 
+[Day 05 - Flex Panels Image Gallery Demo](https://embyth.github.io/30-day-js-challenge/05-flex-panels-image-gallery/index.html)
+
 ---
 
 ## Usage
