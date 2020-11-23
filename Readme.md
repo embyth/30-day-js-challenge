@@ -18,6 +18,8 @@ Code by: [Rostyslav Miniukov](https://github.com/embyth/)
 
 [Day 05 - Flex Panels Image Gallery Demo](https://embyth.github.io/30-day-js-challenge/05-flex-panels-image-gallery/index.html)
 
+[Day 06 - Ajax Type Ahead Demo](https://embyth.github.io/30-day-js-challenge/06-ajax-type-ahead/index.html)
+
 ---
 
 ## Usage
